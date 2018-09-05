@@ -10,7 +10,10 @@ import org.junit.Test;
 
 public class UtilsTest {
 
-
+    /**
+     * This is a test case
+     * @throws Exception hohahoha
+     */
     @Test
     public void elementsAreUnique() throws Exception {
         // empty list
