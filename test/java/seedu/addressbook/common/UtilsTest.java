@@ -12,7 +12,10 @@ import static org.junit.Assert.assertTrue;
  */
 public class UtilsTest {
 
-
+    /**
+     * This is a test case
+     * @throws Exception hohahoha
+     */
     @Test
     public void elementsAreUnique() throws Exception {
         // empty list
